@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-  <!--Este es el front del chanonita-->
+  <!--esto esta en main-->
   <title>JSP - Hello World</title>
 </head>
 <body>
