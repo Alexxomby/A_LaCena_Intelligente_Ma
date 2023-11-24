@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" external-system-id="Maven" name="A_LaCena_Intelligente_Maevensiana:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>A_LaCena_Intelligente_Maevensiana</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="A_LaCena_Intelligente_Maevensiana-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="A_LaCena_Intelligente_Maevensiana:war exploded" />
+    </root>
+  </artifact>
+</component>
